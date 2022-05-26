@@ -1,4 +1,4 @@
-unified_mode true
+#unified_mode true
 
 action :install do
   node_val = node['rvm']['gem_package']['rvm_string']
