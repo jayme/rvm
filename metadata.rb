@@ -7,7 +7,7 @@ version           '1.1.2'
 source_url        'https://github.com/sous-chefs/chef-rvm'
 issues_url        'https://github.com/sous-chefs/chef-rvm/issues'
 
-chef_version      '>= 15.3'
+chef_version      '>= 12.9'
 
 %w(amazon centos redhat scientific oracle fedora debian ubuntu).each do |os|
   supports os
