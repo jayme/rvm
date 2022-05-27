@@ -1,4 +1,4 @@
-unified_mode true
+#unified_mode true
 
 action :install do
   include_recipe 'rvm::user_install'

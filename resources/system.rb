@@ -1,4 +1,4 @@
-unified_mode true
+#unified_mode true
 
 include_recipe 'rvm::system_install'
 
